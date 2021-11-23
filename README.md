@@ -1,11 +1,11 @@
-# Posty
+# laravel Blog
 
-The code for the Posty project, from the Traversy Media Laravel crash course.
+The code for the Laravel Blog project, from the Tclassified.com Laravel crash course.
 
-Feel free to use this code however you like!
+
 
 # Links
 
-* [Codecourse](https://codecourse.com)
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [EducateAfricans](https://educateafricans.com)
+* [Tclassified.com](https://www.youtube.com/c/tclassified)
 # laravel-Blog
